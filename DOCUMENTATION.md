@@ -64,3 +64,64 @@ schedule__card <br>
 schedule__card_clock <br>
 schedule__card__title <br>
 schedule__card__text <br>
+
+<br>
+
+### section temoignages 
+reviews <br>
+reviews__title <br>
+reviews__list <br>
+reviews__list__item <br>
+review__card_group <br>
+review__card <br>
+avatar <br>
+review__card__title <br>
+review__card__text <br>
+
+<br>
+
+### section equipe 
+team <br>
+team_avatar <br>
+team__body <br>
+team__title <br>
+team__text <br>
+team__button <br>
+
+<br>
+
+### section tarification 
+pricing <br>
+pricing__body <br>
+pricing__title <br>
+pricing__text <br>
+pricing__list <br>
+pricing__list__item <br>
+pricing__card <br>
+pricing__card__body <br>
+pricing__card__title <br>
+pricing__card__text <br>
+
+<br>
+
+### section contact
+contact <br>
+contact__title <br>
+form <br>
+form__label <br>
+form__name <br>
+form__email <br>
+form__message <br>
+form__button <br>
+
+<br>
+
+### section footer
+footer <br>
+footer__nav <br>
+footer__nav__list <br>
+footer__nav__list__item <br>
+footer__card <br>
+footer__card__title <br>
+footer__card__button <br>
+
