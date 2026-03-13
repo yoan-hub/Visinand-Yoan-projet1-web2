@@ -6,11 +6,11 @@
 ## Mes classe
 
 ### barre de navigation
-navbar
-navbar__logo
-navbar__list
-navbar__list__item
-navbar__list__button
+navbar <br>
+navbar__logo <br>
+navbar__list <br>
+navbar__list__item <br>
+navbar__list__button <br>
 
 ### hero
 hero
