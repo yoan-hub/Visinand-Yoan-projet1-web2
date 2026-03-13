@@ -5,20 +5,34 @@
 
 ## Mes classe
 
-### barre de navigation
+### section barre de navigation
 navbar <br>
 navbar__logo <br>
 navbar__list <br>
 navbar__list__item <br>
 navbar__list__button <br>
 
-### hero
-hero
-hero__body
-hero__title
-hero__text
-hero__buttons
-hero__button__1
-hero__button__2
+<br>
 
+### section hero
+hero <br>
+hero__body <br>
+hero__title <br>
+hero__text <br>
+hero__buttons <br>
+hero__button__1 <br> 
+hero__button__2 <br>
 
+<br>
+
+### section a propos
+about <br>
+about__body <br>
+about__title <br>
+about__text <br>
+about__list <br>
+about__list__item <br>
+about__card <br>
+about__card__body <br>
+about__card__title <br>
+about__card__text <br>
