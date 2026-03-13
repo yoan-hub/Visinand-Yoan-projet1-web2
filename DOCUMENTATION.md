@@ -125,3 +125,11 @@ footer__card <br>
 footer__card__title <br>
 footer__card__button <br>
 
+<br>
+<br>
+
+## Difficultées
+
+## Usage de l'IA
+J'ai utilisé l'IA après avoirfait les section navbar et hero pour vérifier ma structure BEM,pour ensuite me corriger et continuer dans la bonne direction.
+
