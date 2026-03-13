@@ -50,3 +50,15 @@ services__card <br>
 services__card__body <br>
 services__card__title <br>
 services__card__text <br>
+
+### section horaires
+schedule <br>
+schedule__body <br>
+schedule__title <br>
+schedule__text <br>
+schedule__list <br>
+schedule__list__item <br>
+schedule__card <br>
+schedule__card_clock <br>
+schedule__card__title <br>
+schedule__card__text <br>
