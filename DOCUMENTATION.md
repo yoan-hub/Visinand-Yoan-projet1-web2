@@ -36,3 +36,17 @@ about__card <br>
 about__card__body <br>
 about__card__title <br>
 about__card__text <br>
+
+<br>
+
+### section services
+services <br>
+services__body <br>
+services__title <br>
+services__button <br>
+services__list <br>
+services__list__item <br>
+services__card <br>
+services__card__body <br>
+services__card__title <br>
+services__card__text <br>
