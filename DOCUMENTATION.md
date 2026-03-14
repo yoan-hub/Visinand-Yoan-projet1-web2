@@ -109,9 +109,7 @@ contact <br>
 contact__title <br>
 form <br>
 form__label <br>
-form__name <br>
-form__email <br>
-form__message <br>
+form__text <br>
 form__button <br>
 
 <br>
@@ -129,6 +127,10 @@ footer__card__button <br>
 <br>
 
 ## Difficultées
+probleme, quand jai commendcer le css et que je voulais utiliser le code de figma jai remarquer que les texte (title et texte) etait reunis dans un container (sur figma) jai donc du
+retoruner dans mon html pour rajouter des containers avec des nouvelles classe donc cest la que jai utliser la balise div
+
+<br>
 
 ## Usage de l'IA
 J'ai utilisé l'IA après avoirfait les section navbar et hero pour vérifier ma structure BEM,pour ensuite me corriger et continuer dans la bonne direction.
