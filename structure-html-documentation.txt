@@ -1,0 +1,65 @@
+
+body
+	header
+
+		section class = navbar
+			(mon code)
+		/section
+		
+		
+		section class = hero
+			(mon code)
+		/section
+	/header
+	
+	
+	
+	main
+	
+		section class = about
+			(mon code)
+		/section
+		
+		
+		
+		section class = services
+			(mon code)
+		/section
+		
+		
+		
+		section class = schedule
+			(mon code)
+		/section
+		
+		
+		
+		section class = review
+			(mon code)
+		/section
+		
+		
+		
+		section class = team
+			(mon code)
+		/section
+		
+		
+		
+		section class = pricing
+			(mon code)
+		/
+		
+		
+		
+		section class = contact
+			(mon code)
+		/section
+		
+		
+		
+		footer class = footer
+			(mon code)
+		/footer
+	/main
+/body
