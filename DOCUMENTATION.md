@@ -128,7 +128,7 @@ footer__card__button <br>
 
 ## Difficultées
 probleme, quand jai commendcer le css et que je voulais utiliser le code de figma jai remarquer que les texte (title et texte) etait reunis dans un container (sur figma) jai donc du
-retoruner dans mon html pour rajouter des containers avec des nouvelles classe donc cest la que jai utliser la balise div
+retoruner dans mon html pour rajouter des containers avec des nouvelles classe donc cest la que jai utliser la balise div. Je n'ai pas reussi a faire 2 ranger pour la section horraire.
 
 <br>
 
